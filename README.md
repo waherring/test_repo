@@ -1,2 +1,2 @@
 # test_repo
-Test repo
+This is a test folder for theIBM data science course
